@@ -1,5 +1,5 @@
 # Car-Pricing
-The process of finding a model to predict car prices
+[This notebook](https://github.com/henrythemann/Car-Pricing/blob/main/project.ipynb) goes through the process of finding a model to predict car prices.
 
 # Findings
 In the process of finding the best model, it became clear that the model with the lowest error was one that was restricted to a single model of car. Therefore, a pricing model for the entire dataset would require multiple models—one for each model of car.
